@@ -40,6 +40,13 @@
 # debug information files
 *.dwo
 
+# Build files
+/build/
+/out/
+
 # IDE files
-.vs/
-.vscode/
+/.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user

@@ -1,3 +1,0 @@
-C:/Users/feder/OneDrive/Documenti/GitHub/Gravity_Simulator_SFML/out/build/x64-debug/CMakeFiles/Gravity_Simulator_SFML.dir
-C:/Users/feder/OneDrive/Documenti/GitHub/Gravity_Simulator_SFML/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/feder/OneDrive/Documenti/GitHub/Gravity_Simulator_SFML/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
