@@ -117,7 +117,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "src/config.h",
+			"path" : "src/config.hpp",
 			"sourceGroupIndex" : 1
 		}
 	],

@@ -1,7 +1,7 @@
-﻿#include "config.h"
+﻿#include "config.hpp"
 
 int main()
 {
-	std::cout << "Hello Cake." << std::endl;
+	std::cout << "Hello CMake." << std::endl;
 	return 0;
 }

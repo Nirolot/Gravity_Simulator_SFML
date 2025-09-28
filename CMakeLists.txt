@@ -12,7 +12,7 @@ endif()
 project ("Gravity_Simulator_SFML")
 
 # Aggiungere l'origine all'eseguibile di questo progetto.
-add_executable (Gravity_Simulator_SFML "src/main.cpp" "src/config.h")
+add_executable (Gravity_Simulator_SFML "src/main.cpp" "src/config.hpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Gravity_Simulator_SFML PROPERTY CXX_STANDARD 20)
